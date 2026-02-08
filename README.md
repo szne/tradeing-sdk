@@ -18,3 +18,6 @@ pip install -e .
 
 詳細は `docs/compatibility_policy.md` を参照してください。  
 破壊的変更時の告知フォーマットは `docs/breaking_change_migration_template.md` を使います。
+
+## リリース
+- 手順は `RELEASE.md` を参照してください。
